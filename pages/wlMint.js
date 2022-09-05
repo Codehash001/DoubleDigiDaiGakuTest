@@ -113,7 +113,7 @@ useEffect(() => {
           <div className="z-1 md:max-w-3xl w-full bg-black/75 filter  py-4 rounded-md px-2 md:px-10 flex flex-col items-center
             bg-gray-800 bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border-2 border-gray-100 backdrop-saturate-100">
             <h1 className="font-Righteous uppercase font-bold text-3xl md:text-4xl text-brand-blue bg-clip-text mt-3">
-            {paused ? 'Paused' : 'Pre-Sale'  } </h1>
+            {paused ? 'Paused' : 'Whitelisted Sale'  } </h1>
 
             <h3 className="text-sm text-gray-100 tracking-widest">
             {walletAddress
