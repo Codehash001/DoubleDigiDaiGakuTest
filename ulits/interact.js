@@ -84,8 +84,8 @@ export const presaleMint = async (mintAmount) => {
   if (AbleToMint <  mintAmount){
     return {
       success: false,
-      status: '📌 You have already minted ' + numberMinted +' NFT/s ' +
-       'You are able to mint only '+ AbleToMint +' more NFT/s ' 
+      status: '📌 You have already minted in Whitelisted sale ' +
+        
     }
   }
   const nonce = await web3.eth.getTransactionCount(
