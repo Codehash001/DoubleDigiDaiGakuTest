@@ -84,7 +84,7 @@ export const presaleMint = async (mintAmount) => {
   if (AbleToMint <  mintAmount){
     return {
       success: false,
-      status: '📌 You have already minted in Whitelisted sale ' +
+      status: '📌 You have already minted in Whitelisted sale '
         
     }
   }
