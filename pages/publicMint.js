@@ -259,8 +259,7 @@ useEffect(() => {
             <div className="flex flex-col items-center mt-4 py-2 w-full border border-y-white-2">
               <h3 className=" text-1xl text-brand-blue mt-2 font-normal">
               All 4 Legendary 1:1 gifs are in the first 420 paid mints!
-               
-              </h3>
+               </h3>
             </div>
             </div>
             </div>
