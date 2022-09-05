@@ -258,7 +258,7 @@ useEffect(() => {
             </div>
             <div className="flex flex-col items-center mt-4 py-2 w-full border border-y-white-2">
               <h3 className=" text-1xl text-white mt-2 font-normal">
-              Couldn't get in to whiteliste?
+              Couldnot get in to whiteliste?
               <Link href="/publicMint" passHref>
                 <a className='text-brand-blue uppercase font-normal hover:text-brand-01'> {" "}Go to Publc Sale</a>
               </Link> 
