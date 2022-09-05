@@ -11,7 +11,7 @@ import {
 
 //REMEMBER TO ADD A LOGO
 
-export default function pblcMint(){
+export default function PblcMint(){
   const [maxSupply, setMaxSupply] = useState(0)
   const [totalMinted, setTotalMinted] = useState(0)
   const [maxMintAmount, setMaxMintAmount] = useState(0)
