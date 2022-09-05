@@ -257,11 +257,9 @@ useEffect(() => {
               </h3>
             </div>
             <div className="flex flex-col items-center mt-4 py-2 w-full border border-y-white-2">
-              <h3 className=" text-1xl text-white mt-2 font-normal">
-              Are you whitelisted?
-              <Link href="/wlMint" passHref>
-                <a className='text-brand-blue uppercase font-normal hover:text-brand-01'> {" "}Go to Whitelisted Sale</a>
-              </Link> 
+              <h3 className=" text-1xl text-brand-blue mt-2 font-normal">
+              All 4 Legendary 1:1 gifs are in the first 420 paid mints!
+               
               </h3>
             </div>
             </div>
