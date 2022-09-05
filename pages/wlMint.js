@@ -12,7 +12,7 @@ import {
 
 //REMEMBER TO ADD A LOGO
 
-export default function wlMint(){
+export default function WlMint(){
   const [maxSupply, setMaxSupply] = useState(0)
   const [totalMinted, setTotalMinted] = useState(0)
   const [maxMintAmount, setMaxMintAmount] = useState(0)
